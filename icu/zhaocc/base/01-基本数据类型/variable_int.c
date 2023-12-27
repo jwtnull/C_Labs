@@ -74,7 +74,7 @@ int main(void){
     int  n2=10;
 
     //无符号
-    unsigned int n2=10;
+    unsigned int n3=10;
 
     //无符号输出：
     /**

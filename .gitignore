@@ -1,1 +1,5 @@
 .idea/
+*.exe
+/**/.exe
+.vscode/settings.json
+
