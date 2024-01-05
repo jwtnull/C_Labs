@@ -5,5 +5,5 @@ int main() {
     SqlList sqlList= initSqlList();
     printf("%d",sqlList.size);
 
-return 0;
+return 0; 
 }
