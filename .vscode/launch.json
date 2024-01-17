@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zhaochangchun/code/labs/C_Labs/icu/zhaocc/base/10-内存管理",
+      "program": "/Users/zhaochangchun/code/labs/C_Labs/icu/zhaocc/base/10-内存管理/build/Debug/outDebug"
+    }
+  ]
+}
